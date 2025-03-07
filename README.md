@@ -4,20 +4,6 @@
 
 **Content Generator** is a web application built with [Streamlit](https://streamlit.io) that dynamically generates a Content on any given topic. Leveraging the power of the LLama2 model from Hugging Face, the application crafts content based on user-defined topics and word limits while providing feedback on generation time.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-  - [Prerequisites](#prerequisites)
-  - [Dependencies](#dependencies)
-  - [Download Model](#download-model)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [Repository](#repository)
-- [License](#license)
-- [Contributing](#contributing)
-- [Contact](#contact)
-
 ## Features
 
 - **Dynamic Content Generation:** Accepts user input for a topic and word count, then uses the LLama2 model to generate a Content.
